@@ -1,0 +1,32 @@
+{
+  "repo": {
+    "enable": false,
+    "url": "https://github.com/username/gallery-assets"
+  },
+  "storage": {
+    "provider": "s3",
+    "bucket": "afilmory-photo",
+    "region": "auto",
+    "prefix": "/",
+    "customDomain": "https://r2.47th0a.com"
+  },
+  "options": {
+    "defaultConcurrency": 8,
+    "enableLivePhotoDetection": true,
+    "showProgress": true,
+    "showDetailedStats": true
+  },
+  "logging": {
+    "verbose": true,
+    "level": "info",
+    "outputToFile": false
+  },
+  "performance": {
+    "worker": {
+      "workerCount": 8,
+      "timeout": 30000,
+      "useClusterMode": true,
+      "workerConcurrency": 2
+    }
+  }
+}
