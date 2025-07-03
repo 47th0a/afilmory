@@ -7,7 +7,7 @@
     "provider": "s3",
     "bucket": "afilmory-photo",
     "region": "auto",
-    "prefix": "/",
+    "prefix": "",
     "customDomain": "https://r2.47th0a.com",
     "endpoint": "https://78503935c5f4d12fc8de65fbb88ec000.r2.cloudflarestorage.com"
   },
