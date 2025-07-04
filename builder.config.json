@@ -5,11 +5,10 @@
   },
   "storage": {
     "provider": "s3",
-    "bucket": "afilmory-photo",
-    "region": "auto",
+    "bucket": "afilmory-photo-1251828023",
+    "region": "ap-guangzhou",
     "prefix": "",
-    "customDomain": "https://r2.47th0a.com",
-    "endpoint": "https://78503935c5f4d12fc8de65fbb88ec000.r2.cloudflarestorage.com"
+    "customDomain": "https://r3.47th0a.com"
   },
   "options": {
     "defaultConcurrency": 8,
