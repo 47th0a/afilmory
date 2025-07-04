@@ -9,7 +9,7 @@
     "region": "ap-guangzhou",
     "prefix": "",
     "customDomain": "https://r3.47th0a.com",
-    "endpoint": "cos.ap-guangzhou.myqcloud.com"
+    "endpoint": "https://cos.ap-guangzhou.myqcloud.com"
   },
   "options": {
     "defaultConcurrency": 8,
