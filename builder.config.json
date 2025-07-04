@@ -5,11 +5,11 @@
   },
   "storage": {
     "provider": "s3",
-    "bucket": "afilmory-1251828023",
-    "region": "ap-hongkong",
+    "bucket": "afilmory-photo",
+    "region": "auto",
     "prefix": "",
-    "customDomain": "https://r3.47th0a.com",
-    "endpoint": "https://cos.ap-hongkong.myqcloud.com"
+    "customDomain": "https://r2.47th0a.com",
+    "endpoint": "https://78503935c5f4d12fc8de65fbb88ec000.r2.cloudflarestorage.com"
   },
   "options": {
     "defaultConcurrency": 8,
